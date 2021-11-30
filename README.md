@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Video Explanation to my project
+https://drive.google.com/file/d/12a2duGv3I7hCt00iZNfbXJ2x5NkMmLiI/view?usp=sharing
+
+# How to run the project locally on your pc
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
